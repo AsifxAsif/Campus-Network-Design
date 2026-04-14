@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7.svg)](https://www.netacad.com/cisco-packet-tracer)
-[![Course](https://img.shields.io/badge/Course-CSE405-green.svg)]()
+[![Course](https://img.shields.io/badge/Course-CSE405-green.svg)](https://github.com/AsifxAsif/Campus-Network-Design)
 
 ## 📋 Project Overview
 
